@@ -29,7 +29,7 @@ export const projectsData = [
     id: 1,
     title: "Biblioteca",
     description:
-      "Gestisci la tua libreria con autenticazione JWT, ruoli Admin/User e dashboard responsive.",
+       "Gestisci la tua libreria con autenticazione JWT, ruoli Admin/User e dashboard responsive.",
     images: [
       biblioteca1,
       loginPage2,
@@ -52,7 +52,7 @@ export const projectsData = [
   },
 
   {
-    id: 2,
+    id:2,
     title: "Job Board",
     description:
       "Job board full stack con ruoli distinti e autenticazione JWT.",
