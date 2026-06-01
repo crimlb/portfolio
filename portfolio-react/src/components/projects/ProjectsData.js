@@ -27,51 +27,32 @@ import screenParola3 from '../../assets/imgIndovinaLaParola/screenParola3.webp';
 export const projectsData = [
   {
     id: 1,
-    title: "Memory",
+    title: "Biblioteca",
     description:
-      "Uno dei primi progetti, realizzato con JavaScript vanilla.",
+      "Gestisci la tua libreria con autenticazione JWT, ruoli Admin/User e dashboard responsive.",
     images: [
-      memory3,
-      memory1,
-      memory2,
+      biblioteca1,
+      loginPage2,
+      catalogo3,
+      dashboardPrestiti4,
+      dashboardAdmin5,
     ],
-    type: "HTML / CSS / JavaScript",
-    stack: ["HTML5", "CSS3", "JavaScript"],
+    type: "Full Stack",
+    stack: ["React", "Node.js", "Express", "PostgreSQL", "JWT", "Bootstrap"],
     features: [
-      "15 coppie di carte",
-      "Countdown 3 minuti",
-      "Effetti sonori",
-      "Miscelazione casuale",
+      "Autenticazione JWT",
+      "Ruoli Admin/User",
+      "Gestione prestiti",
+      "Catalogo con ricerca",
+      "Dashboard admin",
+      "Route protette",
     ],
-    github: "https://github.com/crimlb/memory.git",
-    demo: "https://memory-dun-kappa.vercel.app/",
+    github: "https://github.com/crimlb/bibliotecaReact",
+    demo: "https://biblioteca-react-nine.vercel.app/login",
   },
 
   {
     id: 2,
-    title: "Dev Academy",
-    description:
-      "Piattaforma educativa per programmatori con corsi e percorsi formativi dal design moderno.",
-    images: [
-      dev1,
-      dev2,
-      dev3,
-      dev4,
-    ],
-    type: "Frontend · Progetto di gruppo",
-    stack: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
-    features: [
-      "Catalogo corsi",
-      "Percorsi formativi",
-      "Layout responsive",
-      "UI editoriale moderna",
-    ],
-    github: "https://github.com/crimlb/Team2BW.git",
-    demo: "https://team2-bw.vercel.app/",
-  },
-
-  {
-    id: 3,
     title: "Job Board",
     description:
       "Job board full stack con ruoli distinti e autenticazione JWT.",
@@ -97,30 +78,50 @@ export const projectsData = [
   },
 
   {
-    id: 4,
-    title: "Biblioteca",
+    id: 3,
+    title: "Dev Academy",
     description:
-      "Gestisci la tua libreria con autenticazione JWT, ruoli Admin/User e dashboard responsive.",
+      "Piattaforma educativa per programmatori con corsi e percorsi formativi dal design moderno.",
     images: [
-      biblioteca1,
-      loginPage2,
-      catalogo3,
-      dashboardPrestiti4,
-      dashboardAdmin5,
+      dev1,
+      dev2,
+      dev3,
+      dev4,
     ],
-    type: "Full Stack",
-    stack: ["React", "Node.js", "Express", "PostgreSQL", "JWT", "Bootstrap"],
+    type: "Frontend · Progetto di gruppo",
+    stack: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
     features: [
-      "Autenticazione JWT",
-      "Ruoli Admin/User",
-      "Gestione prestiti",
-      "Catalogo con ricerca",
-      "Dashboard admin",
-      "Route protette",
+      "Catalogo corsi",
+      "Percorsi formativi",
+      "Layout responsive",
+      "UI editoriale moderna",
     ],
-    github: "https://github.com/crimlb/bibliotecaReact",
-    demo: "https://biblioteca-react-nine.vercel.app/login",
+    github: "https://github.com/crimlb/Team2BW.git",
+    demo: "https://team2-bw.vercel.app/",
   },
+
+  {
+    id: 4,
+    title: "Memory",
+    description:
+      "Uno dei primi progetti, realizzato con JavaScript vanilla.",
+    images: [
+      memory3,
+      memory1,
+      memory2,
+    ],
+    type: "HTML / CSS / JavaScript",
+    stack: ["HTML5", "CSS3", "JavaScript"],
+    features: [
+      "15 coppie di carte",
+      "Countdown 3 minuti",
+      "Effetti sonori",
+      "Miscelazione casuale",
+    ],
+    github: "https://github.com/crimlb/memory.git",
+    demo: "https://memory-dun-kappa.vercel.app/",
+  },
+
 
   {
     id: 5,
