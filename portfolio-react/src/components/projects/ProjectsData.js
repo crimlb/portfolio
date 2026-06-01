@@ -74,7 +74,7 @@ export const projectsData = [
       "Ricerca e filtri offerte",
     ],
     github: "https://github.com/crimlb/JobBoard.git",
-    demo: "https://jobboard-dnsjowhh7-cristina-dev.vercel.app/",
+    demo: "https://job-board-eosin-ten.vercel.app/",
   },
 
   {
