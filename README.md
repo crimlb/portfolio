@@ -127,10 +127,8 @@ http://localhost:5173
 ## 📸 Screenshot
 
 <img width="1896" height="865" alt="portfolio1" src="https://github.com/user-attachments/assets/242bbe01-5ec8-4dd1-9bba-baac99b81faa" />
-<img width="1897" height="867" alt="portfolio2" src="https://github.com/user-attachments/assets/33f69c5e-1d94-431f-ab25-9a88a82861cb" />
 <img width="1895" height="862" alt="portfolio3" src="https://github.com/user-attachments/assets/ae0c4e95-ae90-4818-9919-aa854199daea" />
 <img width="1897" height="863" alt="portfolio4" src="https://github.com/user-attachments/assets/281f506a-c042-4193-97f8-91f9e5a7959b" />
-<img width="1901" height="860" alt="portfolio5" src="https://github.com/user-attachments/assets/5c7a608d-efd3-4ca8-baaa-f25c0e6a5606" />
 <img width="1893" height="863" alt="portfolio6" src="https://github.com/user-attachments/assets/bf0c3ee7-7cd6-49e8-b1d2-e30261f6fc50" />
 <img width="1891" height="867" alt="portfolio7" src="https://github.com/user-attachments/assets/ea0136ad-f1af-4113-8e0a-6d8c5ffb4bfb" />
 <img width="1898" height="861" alt="portfolio8" src="https://github.com/user-attachments/assets/2f00e5d5-995a-43a4-8702-8b67da625dbe" />
