@@ -147,18 +147,24 @@ Questo portfolio nasce con l'obiettivo di:
 
 ---
 
-## 👩‍💻 Autore
+👩‍💻 Autrice
+[Cristina Buffone]
 
-**Cristina Buffone**
 
 Frontend Developer appassionata di UI, UX e sviluppo web moderno.
 
-GitHub: https://github.com/crimlb
+
+GitHub: @crimlb
+
+LinkedIn: linkedin.com/in/cristina-buffone-576893316/
+
+Email: crimlb87@gmail.com
+
 
 ---
 
 ## 📄 Licenza
 
-Questo progetto è distribuito sotto licenza MIT.
+Questo progetto è personale.
+Non è consentito il riutilizzo del codice.
 
-Consulta il file LICENSE per maggiori informazioni.
