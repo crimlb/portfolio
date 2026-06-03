@@ -417,18 +417,18 @@ body {
   will-change: transform;
 }
 
-.tech-item:hover,
-.soft-item:hover {
-  transform: translateY(-5px);
-  border-color: rgba($color-primary-light, 0.35);
-  background: rgba($color-surface, 0.55);
-}
+// .tech-item:hover,
+// .soft-item:hover {
+//   transform: translateY(-5px);
+//   border-color: rgba($color-primary-light, 0.35);
+//   background: rgba($color-surface, 0.55);
+// }
 
-.tech-item:hover .tech-box,
-.soft-item:hover .soft-icon {
-  transform: scale(1.08);
-  border-color: rgba($color-primary-light, 0.35);
-}
+// .tech-item:hover .tech-box,
+// .soft-item:hover .soft-icon {
+//   transform: scale(1.08);
+//   border-color: rgba($color-primary-light, 0.35);
+// }
 
 
 .tech-box,
