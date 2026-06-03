@@ -29,7 +29,7 @@ const Footer = () => {
 
               <a
                 href="#home"
-                className="d-block mt-2 text-secondary text-decoration-none footer-link"
+                className="d-block mt-2 text-secondary footer-link"
               >
                 Home
               </a>
@@ -53,7 +53,7 @@ const Footer = () => {
                   <li key={href}>
                     <a
                       href={href}
-                      className="text-secondary text-decoration-none footer-link"
+                      className="text-secondary footer-link"
                     >
                       {label}
                     </a>
@@ -80,7 +80,7 @@ const Footer = () => {
                   <li key={href}>
                     <a
                       href={href}
-                      className="text-secondary text-decoration-none footer-link"
+                      className="text-secondary footer-link"
                     >
                       {label}
                     </a>
@@ -96,11 +96,44 @@ const Footer = () => {
             <div className="d-flex flex-column align-items-center align-items-md-start text-center text-md-start">
 
               <h6 className="text-light fs-5 fw-bold mb-2">
-                Work in progress
+                Creative Projects
               </h6>
 
               <p className="small mb-0">
-                In arrivo...
+                <a href="https://biblioteca-react-nine.vercel.app/login" 
+                target="_blank" 
+                rel="noreferrer" 
+                className="text-secondary d-flex align-items-center gap-2 footer-link">
+                  Biblioteca React
+                  </a>
+
+                   <a href="https://job-board-eosin-ten.vercel.app/" 
+                target="_blank" 
+                rel="noreferrer" 
+                className="text-secondary d-flex align-items-center gap-2 footer-link">
+                  Job Board
+                  </a>
+
+                  <a href="https://team2-bw.vercel.app/"
+                target="_blank" 
+                rel="noreferrer" 
+                className="text-secondary d-flex align-items-center gap-2 footer-link">
+                  Dev Academy
+                  </a>
+
+                  <a href= "https://memory-dun-kappa.vercel.app/"
+                target="_blank" 
+                rel="noreferrer" 
+                className="text-secondary d-flex align-items-center gap-2 footer-link">
+                  Memory Game
+                  </a>
+
+                   <a href= "https://indovina-la-parola.vercel.app/"
+                target="_blank" 
+                rel="noreferrer" 
+                className="text-secondary d-flex align-items-center gap-2 footer-link">
+                  Indovina la parola
+                  </a>
               </p>
 
             </div>
@@ -120,7 +153,7 @@ const Footer = () => {
                   href="https://mail.google.com/mail/?view=cm&fs=1&to=crimlb87@gmail.com&su=Nuovo%20contatto&body=Ciao%20Cristina"
                   target="_blank"
                   rel="noreferrer"
-                  className="text-secondary text-decoration-none d-flex align-items-center gap-2 footer-link"
+                  className="text-secondary d-flex align-items-center gap-2 footer-link"
                 >
                   <BiLogoGmail size={18} />
                   Email
@@ -130,7 +163,7 @@ const Footer = () => {
                   href="https://www.linkedin.com/in/cristina-buffone-576893316/"
                   target="_blank"
                   rel="noreferrer"
-                  className="text-secondary text-decoration-none d-flex align-items-center gap-2 footer-link"
+                  className="text-secondary d-flex align-items-center gap-2 footer-link"
                 >
                   <FaLinkedin size={16} />
                   LinkedIn
@@ -140,7 +173,7 @@ const Footer = () => {
                   href="https://github.com/"
                   target="_blank"
                   rel="noreferrer"
-                  className="text-secondary text-decoration-none d-flex align-items-center gap-2 footer-link"
+                  className="text-secondary d-flex align-items-center gap-2 footer-link"
                 >
                   <FaGithub size={16} />
                   GitHub
@@ -150,7 +183,7 @@ const Footer = () => {
                   href="https://wa.me/393341527898"
                   target="_blank"
                   rel="noreferrer"
-                  className="text-secondary text-decoration-none d-flex align-items-center gap-2 footer-link"
+                  className="text-secondary d-flex align-items-center gap-2 footer-link"
                 >
                   <FaWhatsapp size={16} />
                   WhatsApp
